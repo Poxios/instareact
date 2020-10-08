@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-deploy-pages/static/css/main.26bd0d49.chunk.css",
-    "main.js": "/react-deploy-pages/static/js/main.9359db88.chunk.js",
-    "main.js.map": "/react-deploy-pages/static/js/main.9359db88.chunk.js.map",
-    "runtime-main.js": "/react-deploy-pages/static/js/runtime-main.0882ac62.js",
-    "runtime-main.js.map": "/react-deploy-pages/static/js/runtime-main.0882ac62.js.map",
-    "static/js/2.bb23f4ce.chunk.js": "/react-deploy-pages/static/js/2.bb23f4ce.chunk.js",
-    "static/js/2.bb23f4ce.chunk.js.map": "/react-deploy-pages/static/js/2.bb23f4ce.chunk.js.map",
-    "index.html": "/react-deploy-pages/index.html",
-    "precache-manifest.1c7a7f1cd40c0fd6886ca38e53ced94a.js": "/react-deploy-pages/precache-manifest.1c7a7f1cd40c0fd6886ca38e53ced94a.js",
-    "service-worker.js": "/react-deploy-pages/service-worker.js",
-    "static/css/main.26bd0d49.chunk.css.map": "/react-deploy-pages/static/css/main.26bd0d49.chunk.css.map",
-    "static/js/2.bb23f4ce.chunk.js.LICENSE.txt": "/react-deploy-pages/static/js/2.bb23f4ce.chunk.js.LICENSE.txt",
-    "static/media/Header.css": "/react-deploy-pages/static/media/sprite.65ffa5ba.png"
+    "main.css": "/instareact/static/css/main.563473f8.chunk.css",
+    "main.js": "/instareact/static/js/main.ebf32c06.chunk.js",
+    "main.js.map": "/instareact/static/js/main.ebf32c06.chunk.js.map",
+    "runtime-main.js": "/instareact/static/js/runtime-main.546c04c1.js",
+    "runtime-main.js.map": "/instareact/static/js/runtime-main.546c04c1.js.map",
+    "static/js/2.bb23f4ce.chunk.js": "/instareact/static/js/2.bb23f4ce.chunk.js",
+    "static/js/2.bb23f4ce.chunk.js.map": "/instareact/static/js/2.bb23f4ce.chunk.js.map",
+    "index.html": "/instareact/index.html",
+    "precache-manifest.ca6f8758130b117d22a9ffb7f92b322b.js": "/instareact/precache-manifest.ca6f8758130b117d22a9ffb7f92b322b.js",
+    "service-worker.js": "/instareact/service-worker.js",
+    "static/css/main.563473f8.chunk.css.map": "/instareact/static/css/main.563473f8.chunk.css.map",
+    "static/js/2.bb23f4ce.chunk.js.LICENSE.txt": "/instareact/static/js/2.bb23f4ce.chunk.js.LICENSE.txt",
+    "static/media/Header.css": "/instareact/static/media/sprite.65ffa5ba.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0882ac62.js",
+    "static/js/runtime-main.546c04c1.js",
     "static/js/2.bb23f4ce.chunk.js",
-    "static/css/main.26bd0d49.chunk.css",
-    "static/js/main.9359db88.chunk.js"
+    "static/css/main.563473f8.chunk.css",
+    "static/js/main.ebf32c06.chunk.js"
   ]
 }
